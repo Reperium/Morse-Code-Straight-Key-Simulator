@@ -1,14 +1,23 @@
 Open the static websites at these links:
 
 Version 0.1: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%200.1.html
+
 Version 1.0: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%201.0.html
+
 Version 1.1: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%201.1.html
+
 Version 1.2: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%201.2.html
+
 Version 1.3: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%201.3.html
+
 Version 1.4: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%201.4.html
+
 Version 1.5: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%201.5.html
+
 Version 1.6: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%201.6.html
+
 Version 1.7: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%201.7.html
+
 Version 2.0: https://github.com/Reperium/Morse-Code-Straight-Key-Simulator/blob/main/Previous%20Versions/Version%202.0.html
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Morse Code Straight Key Simulator
