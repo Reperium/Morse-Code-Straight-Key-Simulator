@@ -19,6 +19,8 @@ Version 1.6: https://reperium.github.io/Morse-Code-Straight-Key-Simulator/Previo
 Version 1.7: https://reperium.github.io/Morse-Code-Straight-Key-Simulator/Previous%20Versions/Version%201.7.html
 
 Version 2.0: https://reperium.github.io/Morse-Code-Straight-Key-Simulator/Version%202.0.html
+
+The Figma prototype is here: https://www.figma.com/design/6LZveNoewl4CwfvIkai4Yy/Morse-Code?node-id=0-1&t=7jPWGRvZy7lyZdF2-1
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 Morse Code Straight Key Simulator
 ~17,400 lines of Hypertext Markup Language, Cascading Style Sheets, and JavaScript using Google Fonts. This uses no other external dependencies and is a static website.
